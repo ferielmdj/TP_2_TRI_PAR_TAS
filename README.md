@@ -2,8 +2,8 @@
 
 ## Description
 Ce projet implémente deux algorithmes :
- **Construction d'un Tas Max** : Réorganise un tableau pour que chaque parent soit plus grand que ses enfants
-**Tri par Tas** : Trie un tableau en ordre croissant en utilisant un tas max
+1. **Construction d'un Tas Max** : Réorganise un tableau pour que chaque parent soit plus grand que ses enfants.
+2. **Tri par Tas** : Trie un tableau en ordre croissant en utilisant un tas max.
 
 ---
  ## Auteur
